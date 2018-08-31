@@ -1,0 +1,29 @@
+<products>
+    <product Item_Name="Flolion Liquoroso ba UPDATED" SKU="12364911_42">
+        <Brand>Salillina Adega UPDATED</Brand>
+        <Color>BLUE</Color>
+        <MSRP>9.99</MSRP>
+        <Bottle_Size>750mL</Bottle_Size>
+        <Alcohol_Volume>0.14</Alcohol_Volume>
+        <Description>Flamboyantly oaked acidity with a hint of earthy notes. UPDATED</Description>
+    </product>
+    <product Item_Name="Groblage Secco ba UPDATED" SKU="12364912_42">
+        <Brand>Francinues Secco UPDATED</Brand>
+        <MSRP>20</MSRP>
+        <Description>Angular barnyard notes with buttery undertones. UPDATED</Description>
+    </product>
+    <product Item_Name="Grugey Vendemmia ba UPDATED" SKU="12364913_42">
+        <Brand>Chothillo Sec UPDATED</Brand>
+        <Color>BLUE</Color>
+        <MSRP>42</MSRP>
+        <Bottle_Size>1 L</Bottle_Size>
+        <Alcohol_Volume>0.12</Alcohol_Volume>
+        <Description>Chewy tannins overshadow complex toasty cigar box flavors. UPDATED</Description>
+    </product>
+    <product Item_Name="Ghuville Piquant ba UPDATED" SKU="12364914_42">
+        <Brand>Zambes Dolce UPDATED</Brand>
+        <Color>BLUE</Color>
+        <Bottle_Size>1 L</Bottle_Size>
+        <Description>Elegant creamy food friendly hints of refined lush notes. UPDATED</Description>
+    </product>
+</products>

@@ -1,0 +1,39 @@
+Salsify Coding Challenge README
+
+  Glen Anderson
+
+Reference
+
+  I used this website as a reference for HTTP PUT with the HTTParty library:
+    https://gist.github.com/julianeon/cd5b112dd569ff7efd07
+
+  I used this website for documentation on using NET::FTP:
+    https://ruby-doc.org/stdlib-2.4.0/libdoc/net/ftp/rdoc/Net/FTP.html
+
+  I used this page for figuring out how to convert XML to JSON:
+    https://stackoverflow.com/questions/1530324/ruby-xml-to-json-converter
+
+3rd Party Libraries
+
+  I used NET::FTP for accessing the FTP server, HTTParty for PUTing to the API, and pry for debugging.
+  I chose NET::FTP by doing a google search and looking at some Stack Overflow posts. I initially chose
+  NET:HTTP to PUT to the API, but after running into some problems with it and discovering that
+  the documentation was not good for the PUT method I decided to use a different one.
+  After doing a google search for alternative, I decided to use HTTParty instead because I found an example
+  on a GitHub gist that worked correctly for me.
+
+Time & Future Improvements
+
+  This exercise took me approximately 3 hours including time for breaks, planning, research, and debugging.
+  If I had additional time to work on the exercise I would like to add more extensive and informative
+  error handling for the file reading and API access. Also, I would like to see if I could get the HTTP PUT to
+  work in place of HTTParty. Depending on the size of the codebase after these improvements I would
+  consider separating pieces of the script into separate classes or methods to make the main part of the code
+  more readable.
+
+Critique
+
+  If I were to critique my code I would say that is sufficient for the task at hand.
+  I think it could benefit from being restructured to use separate functions and classes
+  if the codebase was larger, but that keeping everything in a script-style format was appropriate for
+  a small task like this one.
